@@ -28,7 +28,7 @@ The project uses the "Amazon Reviews" dataset, which is available on Kaggle. Thi
 
 1.  **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/Rubricate12/amazonreview_withspark
     ```
 2.  **Install the dependencies:**
     Make sure you have Python 3 and the following libraries installed:
